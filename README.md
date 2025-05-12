@@ -31,7 +31,7 @@ This dashboard was developed as part of an internship at **HCL Technologies**. I
 
 ## 🚀 Live App
 
-👉 [Launch the Hotel Revenue WebApp](https://balramshah01-hotel-revenue-webapp.streamlit.app)
+👉 [Launch the Hotel Revenue WebApp]( https://balramshah-hotel-webapp.streamlit.app)
 
 ---
 
