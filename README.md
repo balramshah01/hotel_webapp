@@ -59,5 +59,3 @@ This dashboard was developed as part of an internship at **HCL Technologies**. I
 
 ---
 
-## 📁 File Structure
-
